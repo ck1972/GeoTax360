@@ -1,0 +1,10 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {"type":"Feature","properties":{"building_id":"B-1001","parcel_id":"002344-12","type":"House"},
+     "geometry":{"type":"Polygon","coordinates":[[[31.053, -17.8288],[31.054, -17.8288],[31.054, -17.8282],[31.053, -17.8282],[31.053, -17.8288]]]}},
+    {"type":"Feature","properties":{"building_id":"B-1002","parcel_id":"002344-13","type":"House"},
+     "geometry":{"type":"Polygon","coordinates":[[[31.056, -17.8288],[31.057, -17.8288],[31.057, -17.8282],[31.056, -17.8282],[31.056, -17.8288]]]}}
+  ]
+}
+

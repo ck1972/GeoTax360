@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type":"Feature",
+      "properties":{"parcel_id":"002344-12","ward":"Ward 16","zone":"Residential","neighborhood":"Central East"},
+      "geometry":{"type":"Polygon","coordinates":[[[31.052, -17.829],[31.055, -17.829],[31.055, -17.827],[31.052, -17.827],[31.052, -17.829]]]}
+    },
+    {
+      "type":"Feature",
+      "properties":{"parcel_id":"002344-13","ward":"Ward 16","zone":"Residential","neighborhood":"Central East"},
+      "geometry":{"type":"Polygon","coordinates":[[[31.055, -17.829],[31.058, -17.829],[31.058, -17.827],[31.055, -17.827],[31.055, -17.829]]]}
+    }
+  ]
+}
+
