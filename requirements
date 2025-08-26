@@ -1,0 +1,12 @@
+streamlit==1.37.0
+pandas==2.2.2
+geopandas==0.14.4
+shapely==2.0.4
+sqlalchemy==2.0.31
+streamlit-folium==0.20.0
+folium==0.17.0
+altair==5.3.0
+reportlab==4.2.0
+openlocationcode==1.0.1
+python-dateutil==2.9.0
+
